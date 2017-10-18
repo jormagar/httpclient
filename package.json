@@ -1,0 +1,10 @@
+{
+  "name": "httpclient",
+  "version": "1.0.0",
+  "description": "Common JS HttpClient wrapper for Titanium HttpClient",
+  "main": "httpClient.js",
+  "repository": "https://github.com/jormagar/httpclient.git",
+  "author": "Jorge Macías García <jormagar@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
